@@ -7,7 +7,7 @@ use noxkiwi\core\Response;
  * I am the Modal Response object.
  *
  * @package      noxkiwi\modal\Response
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0
