@@ -7,7 +7,7 @@ use noxkiwi\rest\Context\RestContext;
  * I am the main Modal context.
  *
  * @package      noxkiwi\modal\Context
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0

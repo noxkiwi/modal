@@ -8,7 +8,7 @@ use noxkiwi\frontend\Tag\Html\Div;
  * I am the list of areas on a Modal.
  *
  * @package      noxkiwi\modal
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2021 noxkiwi
  * @version      1.0.0
